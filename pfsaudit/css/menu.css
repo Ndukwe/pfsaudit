@@ -1,0 +1,23 @@
+nav{
+ 	background: black;
+ 	width: 1200px;
+ 	height:50px;
+ 	float: left;
+ 	display: block;
+ 	margin-bottom: 0px;
+ 	padding-bottom: 0px;
+ }
+  nav a{
+  	 font-size: 15px;
+  color: #2b96cc;
+  font-weight: bold;
+  	text-align: center;
+
+  }
+  nav a:hover{
+  	color:#2b96cc;
+  }
+  nav ul li{
+  	float: left;
+    padding: 5px;
+  }
